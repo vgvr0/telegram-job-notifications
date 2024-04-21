@@ -1,4 +1,5 @@
-import telebot, sqlite3
+import telebot
+import sqlite3
 from telebot import types
 
 # Replace 'YOUR_API_TOKEN' with the actual token provided by @BotFather
